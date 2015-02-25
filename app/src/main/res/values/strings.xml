@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyFisher</string>
+    <string name="enable_nfc">NFC is disabled, please enable before restarting app</string>
+    <string name="place_tag">This app only reads via a tag event</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_result">ResultActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="pending_result">Pending Result</string>
+
+</resources>
